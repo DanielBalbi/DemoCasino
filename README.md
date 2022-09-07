@@ -71,13 +71,18 @@ will modify all the values ​​of testing14 to testing15, thus being able to g
 
 mailboxes available for testing: (web mail accessible via: https://mail.hostinger.com/)
 
-user password
-testing15@emaras.com.ar Testing152022-
-testing16@emaras.com.ar Testing162022-
-testing17@emaras.com.ar Testing172022-
-testing18@emaras.com.ar Testing182022-
-testing19@emaras.com.ar Testing192022-
-testing20@emaras.com.ar Testing202022-
+user:testing15@emaras.com.ar 
+password:Testing152022-
+user:testing16@emaras.com.ar 
+password:Testing162022-
+user:testing17@emaras.com.ar 
+password:Testing172022-
+user:testing18@emaras.com.ar 
+password:Testing182022-
+user:testing19@emaras.com.ar 
+password:Testing192022-
+user:testing20@emaras.com.ar 
+password:Testing202022-
 
 The web service can only be used once per mailbox, since the same mailbox cannot be registered twice in the system.
 
