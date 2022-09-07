@@ -1,0 +1,7 @@
+{
+  "buttonLearnMore" : ".button--t4 > span",
+  "buttonEndTerms"  : ".article__content > .button",
+  "buttomGameList"  : ".mobile-bar--left > [href='/gameList'] > span"
+ 
+  
+}
