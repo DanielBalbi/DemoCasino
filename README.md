@@ -29,14 +29,18 @@ npm run cypress
 in case you want to see the execution of the automation on the screen and running the script CasinoDemo.cy.js and FindGames.cy.js for the extra option.
 
 This command will display a graphic screen where you must select:
+
 1- E2E Testing
+
 2- Chrome Browser
+
 3- Click on Start E2E Testing
+
 4- FindGame or CasinoDemo to start seeing the automation.
 
 Both Scripts assume execution in an environment without users and therefore close the first welcome screen.
 
-3- In the case of wanting to execute the tests by console, for CI or headless browser output, you can consider:
+5- In the case of wanting to execute the tests by console, for CI or headless browser output, you can consider:
 
 npm run test:casino
 npm run test:find
