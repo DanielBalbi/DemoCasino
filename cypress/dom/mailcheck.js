@@ -6,8 +6,8 @@ const client = new ImapFlow({
     port: 993,
     secure: true,
     auth: {
-        user: 'info@institutoweb.com.ar',
-        pass: 'Danielito1967-'
+        user: '',
+        pass: ''
     }
 });
 
